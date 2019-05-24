@@ -1,0 +1,17 @@
+/*
+Theme Name: Custom client x theme
+Description: Child theme based on Twenty Seventeen 
+Author: Analytical Engine Interactive Inc.
+Version: 1.0
+Template: twentyseventeen
+*/
+
+@import url('../twentyseventeen/style.css');
+
+.site-content-contain {
+    background-color: #c374cc;
+}
+
+.page-title {
+    color: #8BC34A;
+}
