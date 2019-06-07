@@ -27,14 +27,14 @@
 
 	<div class="panel-content">
 		<div class="wrap">
-			<header class="entry-header">
+			<!-- <header class="entry-header">
 				<?php the_title( '<h2 class="entry-title">', '</h2>' ); ?>
 
 				<?php twentyseventeen_edit_link( get_the_ID() ); ?>
 
-			</header><!-- .entry-header -->
+			</header> --><!-- .entry-header -->
 
-			<div class="entry-content">
+			<div class="entry-about">
 				<?php
 					/* translators: %s: Name of current post */
 					the_content(
