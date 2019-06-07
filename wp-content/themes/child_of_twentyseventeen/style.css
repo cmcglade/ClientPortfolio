@@ -7,11 +7,22 @@ Template: twentyseventeen
 */
 
 @import url('../twentyseventeen/style.css');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+/* font-family: 'Roboto', sans-serif; */
 
 .site-content-contain {
-    background-color: #c374cc;
+    background-color: #e6e2e2;
 }
 
 .page-title {
     color: #8BC34A;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.entry-about {
+	width: 100%;
 }
