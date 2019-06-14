@@ -24,7 +24,7 @@ get_header(); ?>
 		</header><!-- .page-header -->
 	<?php endif; ?>
 
-	<div id="primary" class="content-area">
+	<div id="case-studies" class="content-area">
 		<main id="main" class="site-main" role="main">
 
 		<?php
@@ -61,7 +61,7 @@ get_header(); ?>
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
-	<?php get_sidebar(); ?>
+	<?php //get_sidebar(); ?> <!--removing all sidebar widgets-->
 </div><!-- .wrap -->
 
 <?php
